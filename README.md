@@ -1,0 +1,1 @@
+# Full project README with architecture and usage

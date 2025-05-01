@@ -1,0 +1,1 @@
+-- Staging model for inventory
